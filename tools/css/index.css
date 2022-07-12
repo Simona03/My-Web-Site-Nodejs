@@ -1,0 +1,58 @@
+html {
+  background: linear-gradient(90deg, #CE49BF 10%, #A63EC5 50%);
+  color: #fff;
+}
+h2{
+    color: #fff;
+}
+.welcome {
+    color: #fff;
+}
+.welcome h1,
+p {
+  text-align: center;
+  margin: 15px;
+}
+a{
+    text-decoration: none;
+}
+.nav a {
+    text-decoration: none;
+    float: right;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 18px;
+    border: 1px solid #F190B7;
+    display: flexbox;
+    cursor: pointer;
+   
+    font-family: Arial;
+    font-size: 17px;
+    padding: 7px 25px;
+  
+    text-shadow: 0px 1px 0px #FBD6D2;
+}
+a:hover {
+    background: linear-gradient(to bottom, #F190B7 5%, #CE49BF 100%);
+    background-color: #FBD6D2;
+  }
+
+.link{
+  text-decoration: none;
+  float: right;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 18px;
+  border: 1px solid #F190B7;
+  display: flexbox;
+  cursor: pointer;
+ 
+  font-family: Arial;
+  font-size: 17px;
+  padding: 7px 25px;
+
+  text-shadow: 0px 1px 0px #FBD6D2;
+}.link:hover {
+  background: linear-gradient(to bottom, #F190B7 5%, #CE49BF 100%);
+  background-color: #FBD6D2;
+  }
